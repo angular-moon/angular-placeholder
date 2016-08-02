@@ -1,6 +1,6 @@
 {
     "version": "0.3.1",
-    "description": "",
+    "description": "Makes the html5 input placeholder attribute work in all browsers",
     "name": "angular-placeholder",
     "main": "angular-placeholder-shim.js",
     "dependencies": [
